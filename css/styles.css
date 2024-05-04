@@ -692,7 +692,7 @@ header {
   border-radius: 10%;
   width:600px;
   margin: 3rem auto;
-  /* height: 400px; */
+  height: 400px;
 }
 
 .access-map img {
@@ -702,11 +702,6 @@ header {
   border-radius: 10%;
   border: 2px solid var(--fontSubColor);
 
-}
-
-.access-map iframe {
-  height:400px;
-  border-radius: 10%;
 }
 
 .access-info {
